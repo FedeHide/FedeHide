@@ -17,10 +17,10 @@
 
 <div align="center">
   <h2 align="center">Socials</h2>
-  <a href="https://www.linkedin.com/in/fede-hide-4a8209265/">
+  <a href="https://www.linkedin.com/in/fede-hide-4a8209265/" target="_blank">
 	  <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.hackerrank.com/profile/FedeHide">
+  <a href="https://www.hackerrank.com/profile/FedeHide" target="_blank">
     <img src="https://i.postimg.cc/fyNN2kRc/hackerrank-icon.png" />
   </a>
 </div>
