@@ -1,6 +1,6 @@
-<h1 align="center">Hi there!  I'm Federico Rossi ⚜️ FedeHide</h1>
 
-<h3 align="center">Web Developer</h3>
+
+<h1 align="center">Hi there!  I'm Federico Rossi ⚜️ FedeHide</h1>
 
 
 <p><em>I'm a self-taught full stack developer with a passion for creating high-quality web projects. I thrive on challenges and am constantly seeking innovative solutions to problems.</em></p>
@@ -25,11 +25,15 @@
   </a>
 </div>
 
+<br>
+<br>
 
-### Badges
 
-<b>My GitHub Stats</b>
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=FedeHide&theme=gotham&show_icons=true" alt="shamimsikder"/>
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=FedeHide&show_icons=true&theme=gotham"/>
+</p>
 
-<a href="http://www.github.com/FedeHide"><img src="https://github-readme-stats.vercel.app/api?username=FedeHide&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="FedeHide's GitHub stats" /></a>
+<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=FedeHide&theme=gotham"/>
+<img width="25%" align="top-center" src="https://i.postimg.cc/LXZqjwNp/fake-portfolio-bg.png" alt="my-logo" />
+</p>
 
-<a href="https://github.com/FedeHide" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedeHide&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
