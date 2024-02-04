@@ -1,4 +1,3 @@
-
 <div align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=2AA889&center=true&vCenter=true&random=false&width=435&lines=Hi+there!;I'm+Federico+Rossi;%E2%9A%9C%EF%B8%8F+FedeHide+%E2%9A%9C%EF%B8%8F;Web+Developer" alt="Typing SVG" /></a>	
 </div>
@@ -7,6 +6,33 @@
 <p><em>I'm a self-taught full stack developer with a passion for creating high-quality web projects. I thrive on challenges and am constantly seeking innovative solutions to problems.</em></p>
 
 <p><em>I'm driven by a desire for continuous learning and growth in the ever-evolving field of technology. Currently, I'm dedicated to achieving ambitious goals in my career as a developer.</em></p>
+
+<h1 align="center">Stack</h1>
+<h2 align="left">Front-end</h2>
+<div>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts" />
+	</a>
+</div>
+<div>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=react,redux,electron,nextjs,tailwind" />
+	</a>
+</div>
+		
+<h2 align="left">Back-end</h2>
+<div>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,django,postgres" />
+	</a>
+</div>
+
+<h2 align="left">Tools</h2>
+<div>
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=linux,git,jest,docker,aws,figma" />
+	</a>
+</div>
 
 <div align="center">
 	<h2 align="center">Skills</h2>
