@@ -37,7 +37,7 @@
 <div align="center">
 	<h2 align="center">Skills</h2>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,aws,git,linux,figma" />
+		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,aws,git,linux,figma" />
 	</a>
 </div>
 
