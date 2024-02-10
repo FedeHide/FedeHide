@@ -30,14 +30,14 @@
 <h2 align="left">Tools</h2>
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=linux,git,jest,docker,aws,figma" />
+		<img src="https://skillicons.dev/icons?i=linux,bash,git,jest,docker,aws,figma" />
 	</a>
 </div>-->
 
 <div align="center">
 	<h2 align="center">Skills</h2>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,aws,git,linux,figma" />
+		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,aws,git,linux,bash,figma" />
 	</a>
 </div>
 
