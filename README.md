@@ -11,12 +11,12 @@
 <h2 align="left">Front-end</h2>
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts" />
+		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react" />
 	</a>
 </div>
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=react,redux,electron,nextjs,tailwind" />
+		<img src="https://skillicons.dev/icons?i=bootstrap,redux,electron,nextjs,tailwind" />
 	</a>
 </div>
 		
@@ -37,7 +37,7 @@
 <div align="center">
 	<h2 align="center">Skills</h2>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,aws,git,linux,bash,figma" />
+		<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nodejs,aws,git,linux,bash,figma" />
 	</a>
 </div>
 
