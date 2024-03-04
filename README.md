@@ -7,37 +7,30 @@
 
 <p><em>I'm driven by a desire for continuous learning and growth in the ever-evolving field of technology. Currently, I'm dedicated to achieving ambitious goals in my career as a developer.</em></p>
 
-<!--<h1 align="center">Stack</h1>
+<h1 align="center">Stack</h1>
 <h2 align="left">Front-end</h2>
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react" />
+		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,bootstrap" />
 	</a>
 </div>
-<div>
+<!--<div>
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=bootstrap,redux,electron,nextjs,tailwind" />
 	</a>
-</div>
+</div>-->
 		
-<h2 align="left">Back-end</h2>
+<!--<h2 align="left">Back-end</h2>
 <div>
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,django,postgres" />
 	</a>
-</div>
+</div>-->
 
 <h2 align="left">Tools</h2>
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=linux,bash,git,jest,docker,aws,figma" />
-	</a>
-</div>-->
-
-<div align="center">
-	<h2 align="center">Skills</h2>
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,nodejs,aws,git,linux,bash,figma" />
+		<img src="https://skillicons.dev/icons?i=linux,bash,git,aws,figma" /><!-- ,jest,docker -->
 	</a>
 </div>
 
