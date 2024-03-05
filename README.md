@@ -11,14 +11,14 @@
 <h2 align="left">Front-end</h2>
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,bootstrap,nextjs" />
+		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react" />
 	</a>
 </div>
-<!--<div>
+<div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=bootstrap,redux,electron,nextjs,tailwind" />
+		<img src="https://skillicons.dev/icons?i=nextjs,redux,tailwind,bootstrap" /> <!--electron-->
 	</a>
-</div>-->
+</div>
 		
 <!--<h2 align="left">Back-end</h2>
 <div>
