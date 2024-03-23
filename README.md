@@ -40,7 +40,7 @@
 	  <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.hackerrank.com/profile/FedeHide" target="_blank">
-    <img src="https://i.postimg.cc/fyNN2kRc/hackerrank-icon.png" />
+    <img src="https://raw.githubusercontent.com/FedeHide/FedeHide/main/assets/hackerrank-icon.png" />
   </a>
 </div>
 
