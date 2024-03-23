@@ -53,6 +53,6 @@
 </p>
 
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=FedeHide&theme=gotham"/>
-<img width="25%" align="top-center" src="https://i.postimg.cc/LXZqjwNp/fake-portfolio-bg.png" alt="my-logo" />
+<img width="25%" align="top-center" src="https://raw.githubusercontent.com/FedeHide/fake-portfolio/main/public/assets/fake-portfolio-bg.png" alt="my-logo" />
 </p>
 
