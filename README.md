@@ -30,7 +30,7 @@
 <h2 align="left">Tools</h2>
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=linux,bash,git,aws,figma" /><!-- ,jest,docker -->
+		<img src="https://skillicons.dev/icons?i=linux,bash,git,jest,aws,figma" /><!-- docker -->
 	</a>
 </div>
 
