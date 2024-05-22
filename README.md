@@ -3,9 +3,9 @@
 </div>
 
 
-<p><em>I'm a self-taught full stack developer with a passion for creating high-quality web projects. I thrive on challenges and am constantly seeking innovative solutions to problems.</em></p>
+<p><em>My name is Federico Rossi. I'm a Front-End Developer with a keen interest in creating user-friendly and visually appealing web applications.</em></p>
 
-<p><em>I'm driven by a desire for continuous learning and growth in the ever-evolving field of technology. Currently, I'm dedicated to achieving ambitious goals in my career as a developer.</em></p>
+<p><em>I'm currently learning backend development with Node.js and Python.</em></p>
 
 <h1 align="center">Stack</h1>
 <h2 align="left">Front-end</h2>
