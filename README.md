@@ -23,7 +23,7 @@
 <h2 align="left">Back-end</h2>
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=nodejs,prisma" /><!-- nestjs,py,django,postgres -->
+		<img src="https://skillicons.dev/icons?i=py,nodejs,prisma" /><!-- nestjs,django,postgres -->
 	</a>
 </div>
 
