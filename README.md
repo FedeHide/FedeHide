@@ -3,9 +3,13 @@
 </div>
 
 
-<p><em>My name is Federico Rossi. I'm a Front-End Developer with a keen interest in creating user-friendly and visually appealing web applications.</em></p>
+<p><em>I'm a self-taught Full-Stack Developer with a keen interest in creating user-friendly and visually appealing web applications.
 
-<p><em>I'm currently learning backend development with Node.js and Python.</em></p>
+I have experience in building Single Page Applications (SPA) and Server-Side Rendering (SSR) using Next.js, as well as working with technologies like React, TypeScript, Tailwind and Sass.
+
+On the backend, I have experience with Node.js and Python, and I’ve worked with databases such as SQL, SQLite, and MongoDB. I also have experience in deploying web applications on Virtual Private Servers (VPS) using Linux and Nginx. I'm always eager to learn new things and improve my skills.
+
+Currently, I'm studying cybersecurity, focusing on the foundational aspects of the field.</em></p>
 
 <h1 align="center">Stack</h1>
 <h2 align="left">Front-end</h2>
