@@ -3,40 +3,40 @@
 </div>
 
 
-<p><em>I'm a self-taught Full-Stack Developer with a keen interest in creating user-friendly and visually appealing web applications.
+<p><em>
+I am a self-taught Full-Stack Developer with a strong passion for creating user-friendly and visually engaging web applications. My expertise includes building Single Page Applications (SPA) and Server-Side Rendering (SSR) using Next.js, alongside technologies like React, TypeScript, Tailwind, and Sass. 
 
-I have experience in building Single Page Applications (SPA) and Server-Side Rendering (SSR) using Next.js, as well as working with technologies like React, TypeScript, Tailwind and Sass.
+On the backend, I have experience with Node.js and Python, working with databases such as SQL, SQLite, and MongoDB. I am also proficient in deploying web applications on Virtual Private Servers (VPS) using Linux and Nginx.
 
-On the backend, I have experience with Node.js and Python, and I’ve worked with databases such as SQL, SQLite, and MongoDB. I also have experience in deploying web applications on Virtual Private Servers (VPS) using Linux and Nginx. I'm always eager to learn new things and improve my skills.
-
-Currently, I'm studying cybersecurity, focusing on the foundational aspects of the field.</em></p>
+Currently, I am expanding my knowledge in cybersecurity, focusing on foundational concepts to complement my development skills. I’m always eager to learn, grow, and take on new challenges.
+</em></p>
 
 <h1 align="center">Stack</h1>
+
 <h2 align="left">Front-end</h2>
+<p>Core technologies I use for building user interfaces and enhancing user experiences.</p>
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react" />
+		<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,bootstrap" />
 	</a>
 </div>
-<div>
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=nextjs,redux,tailwind,bootstrap" /> <!--electron-->
-	</a>
-</div>
-		
+
 <h2 align="left">Back-end</h2>
+<p>Technologies and frameworks I use to handle server logic and database management.</p>
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,mongodb,prisma" /><!-- nestjs,django,postgres -->
+		<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,mongodb,prisma" />
 	</a>
 </div>
 
 <h2 align="left">Tools</h2>
+<p>Development tools and platforms that streamline my workflow and enhance productivity.</p>
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=linux,bash,git,jest,aws,figma" /><!-- docker -->
+		<img src="https://skillicons.dev/icons?i=linux,bash,git,jest,aws,figma" />
 	</a>
 </div>
+
 
 <div align="center">
   <h2 align="center">Socials</h2>
