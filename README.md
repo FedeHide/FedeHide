@@ -4,11 +4,13 @@
 
 
 <p><em>
-I am a self-taught Full-Stack Developer with a strong passion for creating user-friendly and visually engaging web applications. My expertise includes building Single Page Applications (SPA) and Server-Side Rendering (SSR) using Next.js, alongside technologies like React, TypeScript, Tailwind, and Sass. 
+I’m a software developer with a strong focus on creating tech solutions that blend functionality with usability, always striving to deliver an exceptional user experience.
 
-On the backend, I have experience with Node.js and Python, working with databases such as SQL, SQLite, and MongoDB. I am also proficient in deploying web applications on Virtual Private Servers (VPS) using Linux and Nginx.
+I have experience building Single Page Applications (SPAs) and Server-Side Rendering (SSR) with Next.js, as well as working with technologies like React, TypeScript, Tailwind, and Sass.
 
-Currently, I am expanding my knowledge in cybersecurity, focusing on foundational concepts to complement my development skills. I’m always eager to learn, grow, and take on new challenges.
+On the backend, I’m comfortable with Node.js and FastAPI (Python), and I’ve worked with databases like SQLite, and MongoDB. I also have experience deploying web applications on Virtual Private Servers (VPS) using Linux and Nginx. I’m constantly looking for opportunities to learn and improve my skills.
+
+Currently, I’m diving into cybersecurity, focusing on the fundamentals of the field.
 </em></p>
 
 <h1 align="center">Stack</h1>
