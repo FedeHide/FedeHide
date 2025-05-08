@@ -33,7 +33,7 @@ Currently, I’m diving into cybersecurity, focusing on the fundamentals of the 
 	  <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.hackerrank.com/profile/FedeHide" target="_blank">
-    <img src="https://raw.githubusercontent.com/FedeHide/FedeHide/main/assets/hackerrank-icon.png" />
+    <img src="https://github.com/FedeHide/FedeHide/blob/7ac09440adc9fff3ad4980f4eae8a67227e9b4db/assets/hackerrank-icon.png" />
   </a>
 </div>
 
