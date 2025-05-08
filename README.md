@@ -17,17 +17,12 @@ Currently, I’m diving into cybersecurity, focusing on the fundamentals of the 
 
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,sass,tailwind" />
+		<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,sass,tailwind,figma" />
 	</a>
 </div>
 <div>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,mongodb,prisma" />
-	</a>
-</div>
-<div>
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=linux,bash,git,jest,aws,figma" />
+		<img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,mongodb,prisma,linux,bash" />
 	</a>
 </div>
 
